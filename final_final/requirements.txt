@@ -1,0 +1,9 @@
+python-dotenv
+pandas
+numpy
+opencv-python
+ultralytics
+openai>=1.30.0
+langchain
+langchain-openai
+matplotlib
